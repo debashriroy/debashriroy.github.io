@@ -17,7 +17,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am an Associate Research Scientist at the Department of Electrical and Computer Engineering, Northeastern University. I work at Next Generation Networks and Systems (GENESYS) lab, directed by <a href= "https://genesys-lab.org" parent = '_blank'> Prof. Kaushik Roy Chowdhury </a>. I received my PhD degree in Computer Science under the supervision of Dr. Mainak Chatterjee in Spring 2020 from Department of Computer Science, University of Central Florida. I also received Master of Science (Spring 2018) in Computer Science from the same university <a href= "/ai-folio/cv/" parent = '_blank'>[Details in my CV] </a>.
+I am an Associate Research Scientist at the Department of Electrical and Computer Engineering, Northeastern University. I work at Next Generation Networks and Systems (GENESYS) lab, directed by <a href= "https://genesys-lab.org" parent = '_blank'> Prof. Kaushik Roy Chowdhury </a>. I received my PhD degree in Computer Science under the supervision of Dr. Mainak Chatterjee in Spring 2020 from Department of Computer Science, University of Central Florida. I also received Master of Science (Spring 2018) in Computer Science from the same university <a href= "/cv/Debashri_Roy_Latest_CV_2023.pdf" parent = '_blank'>[Details in my CV] </a>.
 
 <!-- Hi.... Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
