@@ -1,11 +1,13 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Non-RF Sensor Guided Beam Selection in mmWave V2X Network
+description: A project using mmWave communications
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
+
+In this project we solve the problem of fast beam selection in mmWave band by using non-RF sensor data such as LiDAR, camera images and GPS coordinates. We have 2 papers in conference proceedings, 2 in IEEE magazine and transactions, and multiple under submission as a result of this project.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
