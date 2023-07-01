@@ -107,7 +107,7 @@
   contents:
     - title: <a href="https://github.com/Batool-Salehi/FL-based-Sector-Selection" parent = '_blank'>mmWave Beam Selection</a>
       year: 2015-now
-      description: The present code implements FLASH framework  <a https://genesys-lab.org/multimodal-fusion-nextg-v2x-communications" parent = '_blank'> [Dataset Link]</a>.
+      description: The present code implements FLASH framework  <a href="https://genesys-lab.org/multimodal-fusion-nextg-v2x-communications" parent = '_blank'> [Dataset Link]</a>.
     - title: <a href="https://github.com/genesys-neu/IARPA-IQ-CSP-Fusionn" parent = '_blank'>Learning on IQ and Cycle Frequencies for Detecting Anomalous RF Underlay Signals</a>
       year: 2015-now
       description: This github repo releases the codes for different fusion frameworks on three different dataset containing IQ samples and Cyclostationary Signal Processing (CSP) features  <a href="https://genesys-lab.org/ICARUS" parent = '_blank'> [Dataset Link] </a>.
@@ -118,7 +118,7 @@
   contents:
     - year: 2022
       items:
-        - Received NSF Sponsored Award with Prof. Kaushik Chowdhury and Prof. Jessica Ruyle `MEDUSA_Mid-band Environmental Sensing Capability for Detecting Incumbents during Spectrum Sharing', NSF Division Of Computer and Network Systems, SWIFT Program, Nov. 2022 - Oct. 2025, Co-PI. Total Funding $750,000; Roy’s share $188,066.
+        - Received National Science Foudnation Sponsored Award with <a href="https://genesys-lab.org" parent = '_blank'> Prof. Kaushik Chowdhury</a> and <a href="https://www.ou.edu/coe/ece/faculty_directory/dr_ruyle" parent = '_blank'> Prof. Jessica Ruyle</a> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229444&HistoricalAwards=false" parent = '_blank'> `MEDUSA_Mid-band Environmental Sensing Capability for Detecting Incumbents during Spectrum Sharing'</a>, NSF Division Of Computer and Network Systems, SWIFT Program, Nov. 2022 - Oct. 2025, Co-PI. Total Funding $750,000; Roy’s share $188,066.
         # - Matteucci Medal
     - year: 2019
       items:
