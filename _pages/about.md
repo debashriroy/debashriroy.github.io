@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Assistant Professor, Computer Science and Engineering, University of Texas Arlington.
+subtitle: <a href='#'>Affiliations</a>. Assistant Professor, Department of Computer Science and Engineering, University of Texas Arlington.
 
 profile:
   align: right

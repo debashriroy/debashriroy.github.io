@@ -1,12 +1,18 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - debashriroy
+  - genesys-neu
+  - Batool-Salehi
+  # - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - genesys-neu/IARPA-IQ-CSP-Fusion
+  - genesys-neu/FLASH_Context_Prediction
+  - genesys-neu/ni-rf-data-recording-api
+  - Batool-Salehi/FL-based-Sector-Selection
+  - debashriroy/Visual_Location_based_Beamforming
+  - debashriroy/video-over-dsa
+  - debashriroy/AirFC_MNIST
+  - debashriroy//DeePOE
+  - debashriroy/Three-dimensional-global-routing
+  - debashriroy/DB-Manager
+  - debashriroy/SAT-Solver
