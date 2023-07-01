@@ -15,9 +15,10 @@
   contents:
     - title: Doctor of Philosophy
       institution: University of Central Forida, Florida, USA
-      year: Fall 2015- Spring 2020
+      year: 2020
       description:
-        - Computer Science
+        - Department: Computer Science
+        - <a href= "http://www1.coe.neu.edu/~droy/Doctoral_Dissertation_Debashri_Roy.pdf" parent = '_blank'> Dissertation Link </a>
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
