@@ -23,12 +23,21 @@
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master of Science
+      institution: University of Central Forida, Florida, USA
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+    - title: Master of Engineering in Information and Communication Engineering
+      institution: Indian Institute of Engineering Science and Technology, Shibpur, India
+      year: 2013
+      description:
+        - Department of Information Technology
+        - <a href= "http://www1.coe.neu.edu/~droy/MS_Thesis_Debashri_Roy.pdf" parent = '_blank'> Thesis Link </a> 
+    - title: Bachelor of Engineering in Information Technology
+      institution: Indian Institute of Engineering Science and Technology, Shibpur, India
+      year: 2009
+      description:
+        - Department of Information Technology
 
 - title: Experience
   type: time_table
