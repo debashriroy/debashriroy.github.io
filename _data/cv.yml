@@ -32,7 +32,7 @@
       year: 2013
       description:
         - Department of Information Technology
-        - <a href= "http://www1.coe.neu.edu/~droy/MS_Thesis_Debashri_Roy.pdf" parent = '_blank'> Thesis Link </a> 
+        - <a href= "http://www1.coe.neu.edu/~droy/MS_Thesis_Debashri_Roy.pdf" parent = '_blank'> Thesis Link </a>
     - title: Bachelor of Engineering in Information Technology
       institution: Indian Institute of Engineering Science and Technology, Shibpur, India
       year: 2009
@@ -93,14 +93,18 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Multimodal Sensor Fusion
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Deep learning based fusion of multimodal sensing data from LiDAR, camera, GPS, acoustic, radar, and radio frequency sensors for situational assessment, enabling digital twins and autonomous vehicles.
+        - Practical demonstration on millimeter wave band and V2X networks.
+    - title: Deep Spectrum Learning in NextG Communication
       items:
-        - Description 1.
-        - Description 2.
+        - Deep learning based solutions in wireless spectrum sensing, sharing, signal detection, and RF fingerprinting.
+        - Applied research in the CBRS and sub-6 GHz band.
+    - title: Networked Robotics
+      items:
+        - Reinforcement learning for coordination, computation and communication for unmanned autonomous systems.
+        - Real-world and emulation study on automated factory floor in Industry 4.0.
 
 - title: Other Interests
   type: list
