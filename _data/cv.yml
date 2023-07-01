@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Associate Research Scientist
+      institution: Northeastern University, USA
+      year: 2022-2023
       description:
         - Description 1.
         - Description 2.
@@ -41,9 +41,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Postdoctoral Felloq
+      institution: Northeastern University, USA
+      year: 2020-2022
       description:
         - Description 1.
         - Description 2.
