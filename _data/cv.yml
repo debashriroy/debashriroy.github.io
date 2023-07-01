@@ -59,20 +59,48 @@
         - Honored to have oportunity to work with <a href= "https://genesys-lab.org" parent = '_blank'>Prof. Kaushik Chowdhury</a> , <a href= "https://ece.northeastern.edu/fac-ece/ioannidis/dnal.html" parent = '_blank'>Prof. Stratis Ioannidis</a> , <a href= "https://coe.northeastern.edu/people/dy-jennifer/" parent = '_blank'>Prof. Jennifer Dy</a> .
 
     - title: Research Scientist
-      institution:  University of Florida Research and Engineering Education Facility, USA.
+      institution:  <a href= "https://www.eng.ufl.edu/reef/" parent = '_blank'> University of Florida Research and Engineering Education Facility </a> , USA.
       year: May & June 2020
       description:
         - Worked on the project 'RF Antenna Pose and Range Estimation using Deep Learning'.
 
     - title: Summer Intern
-      institution: University of Florida Research and Engineering Education Facility, USA.
+      institution: <a href= "https://www.eng.ufl.edu/reef/" parent = '_blank'> University of Florida Research and Engineering Education Facility </a>, USA.
       year: Summer 2019
       description:
           - Worked on the project 'Radio Frequency Machine Learning'.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Summer Intern
+        institution: <a href= "https://intelligentrobotics.org" parent = '_blank'> Intelligent Robotics Inc. </a> , USA.
+        year: Summer 2018
+        description:
+            - Worked on the project 'Project: Detection of Rogue Transmitter in RFML System for Vehicular Networks.'.
+    - title: Summer Intern
+       institution: <a href= "https://www.eng.ufl.edu/reef/" parent = '_blank'> University of Florida Research and Engineering Education Facility </a>, USA.
+       year: Summer 2017
+       description:
+        - Worked on the project 'Channel Adaptive Real-time Video Steaming over DSA'.
+    - title: Research and Summer Intern
+           institution: <a href= "https://www.athena-tek.com" parent = '_blank'> Athena-Tek LLC </a> , USA.
+           year: Spring 2016 - Spring 2017
+           description:
+            - Worked on the areas of LVC (Live Virtual Constructive) Networks - Modeling and Simulation.
+    - title: Graduate Teaching Assistant
+           institution: University of Central Florida, USA.
+           year: Fall 2015, Fall 2017 - Fall 2019
+           description:
+            - Couses are Operating Systems(COP 4600), System Software (COP 3402), Computer Science II (COP 3503), Object Oriented Programming (COP 3330).
+    - title: Research Scholar
+           institution: <a href= "https://www.iiests.ac.in" parent = '_blank'> Indian Institute of Engineering Science and Technology </a>, India.
+           year: July 2013 - July 2015
+           description:
+            - Worked in the project 'Performance-centric Design Optimization in 3D Nanoscale Integrated Circuits and Systems'.
+    - title: Software Engineer
+          institution: <a href= "http://www.metalogicsystems.com/home/index.htm" parent = '_blank'> Metalogic System Private Ltd.</a>  India
+          year: July 2009 - August 2011
+          description:
+           - W2 years and 2 months of experience in Core Java, J2EE, Swing and Java EE based application development,and worked in four different projects.
+
 
 - title: Open Source Projects
   type: time_table
