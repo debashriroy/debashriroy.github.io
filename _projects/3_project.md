@@ -1,13 +1,16 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Autonomous edge
+description: Autonomous Edge based Robot Connectivity and Mobility
+img: assets/img/Intel.png
+<!-- redirect: https://unsplash.com -->
 importance: 3
 category: work
 ---
 
+In this project we solve the problem of delivering low-latency, reliable connectivity in Industry 4.0 autonomous systems using reinforcement learning based solutions. This is a collaboration project with <font color="#3333FF">Intel Corporation</font>. We have <a href="https://debashriroy.github.io/publications/"><font color="#3333FF">one article</font></a>  under published in <font color="#3333FF"> IEEE Transactions on Mobile Computing</font>, and one under preparation.
+
+<!--
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -78,4 +81,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->

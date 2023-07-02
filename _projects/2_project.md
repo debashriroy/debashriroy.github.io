@@ -1,13 +1,14 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Spectrum learning
+description: Next-Generation Deep Spectrum Learning in Sub-6 GHz
+img: assets/img/MEDUSA.png
 importance: 2
 category: work
 ---
+In this project we solve the problem of signal detection and identification from overlapped signals using machine learning based solutions. This project is funded through <font color="#3333FF"> NSF SWIFT </font> program. We have <a href="https://debashriroy.github.io/publications/"><font color="#3333FF">2 papers</font></a> accepted for publication in IEEE conferences from this project.
 
-Every project has a beautiful feature showcase page.
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -77,4 +78,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->
