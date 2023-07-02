@@ -1,13 +1,17 @@
 ---
 layout: page
-title: projects
+title: more
 nav: true
 nav_order: 7
 dropdown: true
 children:
-    - title: publications
+    - title: datasets
       permalink: /publications/
     - title: divider
-    - title: projects
+    - title: patents
       permalink: /projects/
+    - title: divider
+    - title: collaborators
+      permalink: /projects/
+
 ---
