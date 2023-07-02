@@ -1,6 +1,6 @@
 ---
 layout: page
-title: more
+title: publications
 nav: true
 nav_order: 1
 dropdown: true
