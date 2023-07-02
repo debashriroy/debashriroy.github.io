@@ -1,5 +1,5 @@
 ---
-layout: service
+layout: cv
 permalink: /service/
 title: service
 <!-- nav: true
