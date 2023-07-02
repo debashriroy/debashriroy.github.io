@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /service/
 title: service
 nav: true
