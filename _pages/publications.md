@@ -6,12 +6,12 @@ nav_order: 1
 dropdown: true
 children:
     - title: conferences
-      <!-- permalink: /conferences/ -->
+      permalink: /conferences/
     - title: divider
     - title: journals
-      <!-- permalink: /journals/ -->
+      permalink: /journals/
     - title: divider
     - title: patents
-      <!-- permalink: /patents/ -->
+      permalink: /patents/
 
 ---
