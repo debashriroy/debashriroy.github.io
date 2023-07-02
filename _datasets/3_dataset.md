@@ -1,17 +1,18 @@
 ---
 layout: page
-title: Digital twin
-description: Multiverse at the Edge: Interacting Virtual and Real Worlds for Automative Wireless Beamforming
-img: assets/img/Digital_twin.png
-importance: 4
-<!-- category: fun -->
+title: ICARUS
+description: ICARUS Datasets
+img: assets/img/ICARUS.png
+redirect: https://genesys-lab.org/multimodal-fusion-nextg-v2x-communications
+importance: 3
 category: work
 ---
 
-In this project we solve the problem of automative beamforming in mmWave band using an interactive communication between real and virtual world which provides a multiverse of digital twins. We have <a href="https://debashriroy.github.io/publications/"><font color="#3333FF">one article</font> published in <font color="#3333FF">IEEE Networks Magazine</font></a>  and one under submission in <font color="#3333FF">IEEE Transactions on Networking</font>, and several under preparation.
+ICARUS presents a machine learning based framework that offers choices at the physical layer for inference with inputs of (i) in-phase and quadrature (IQ) samples only, (ii) cycle-frequency features obtained via cyclostationary signal processing (CSP), and (iii) fusion of both, to detect the underlay DSSS signal and its modulation type within LTE frames. We release three real-world datasets that include signals captured in cellular bands in the wild and the NSF POWDER testbed for advanced wireless research (PAWR).  (<a href="https://genesys-lab.org/ICARUS" target="_blank">More Details</a>)
 
 
-<!-- Every project has a beautiful feature showcase page.
+<!--
+Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 

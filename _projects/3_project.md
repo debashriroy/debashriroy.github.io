@@ -3,7 +3,6 @@ layout: page
 title: Autonomous edge
 description: Autonomous Edge based Robot Connectivity and Mobility
 img: assets/img/Intel.png
-<!-- redirect: https://unsplash.com -->
 importance: 3
 category: work
 ---

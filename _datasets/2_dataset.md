@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Digital twin
-description: Multiverse at the Edge: Interacting Virtual and Real Worlds for Automative Wireless Beamforming
-img: assets/img/Digital_twin.png
-importance: 4
-<!-- category: fun -->
+title: V2X
+description: Multimodal Fusion for NextG V2X Communications Datasets
+img: assets/img/vx-datatset2.png
+redirect: https://genesys-lab.org/multimodal-fusion-nextg-v2x-communications
+importance: 2
 category: work
 ---
-
-In this project we solve the problem of automative beamforming in mmWave band using an interactive communication between real and virtual world which provides a multiverse of digital twins. We have <a href="https://debashriroy.github.io/publications/"><font color="#3333FF">one article</font> published in <font color="#3333FF">IEEE Networks Magazine</font></a>  and one under submission in <font color="#3333FF">IEEE Transactions on Networking</font>, and several under preparation.
+The V2X communication spans a variety of applications such as collision avoidance safety systems, traffic signal timing, safety alerts to pedestrians, and real-time traffic. In all of the above applications, the communication system must meet the requirement of either low latency or high data rate for safety or quality of service reasons. We publish different real-world datasets to the research community for using non-RF data such as camera images, LiDAR, and GPS to solve different RF related problems to meet those requirements. (<a href="https://genesys-lab.org/multimodal-fusion-nextg-v2x-communications" target="_blank">More Details</a>)
 
 
 <!-- Every project has a beautiful feature showcase page.
