@@ -32,43 +32,43 @@
       institution: <a href="https://www.journals.elsevier.com/computer-communications/editorial-board" target="_blank"><font color="#3333FF">Elsevier Computer Communications</font></a>
       year: 2022-
 
-- title: Board Member
-  type: time_table
-  contents:
-      - title: Vice Chair
-        institution: AI/ML Section SIG IEEE Technical Committee on Cognitive Networks
-        year: 2023-
-      - title: Mentoring Co-Chair
-        institution: IEEE ComSoc <a href="https://n2women.comsoc.org/officers/2022-n2women-board/" target="_blank"><font color="#3333FF"> N2Women Board</font></a>
-        year: 2022-
-      - title: Panel Member
-        institution: 'Women in AI and Networking' Panel in <a href="https://aiedge.osu.edu/women-ai" target="_blank"><font color="#3333FF"> NSF AI Edge Institute</font></a>
-        year: 2022-
+# - title: Board Member
+#   type: time_table
+#   contents:
+#     - title: Vice Chair
+#       institution: AI/ML Section SIG IEEE Technical Committee on Cognitive Networks
+#       year: 2023
+#     - title: Mentoring Co-Chair
+#       institution: IEEE ComSoc <a href="https://n2women.comsoc.org/officers/2022-n2women-board/" target="_blank"><font color="#3333FF"> N2Women Board</font></a>
+#       year: 2022
+#     - title: Panel Member
+#       institution: 'Women in AI and Networking' Panel in <a href="https://aiedge.osu.edu/women-ai" target="_blank"><font color="#3333FF"> NSF AI Edge Institute</font></a>
+#       year: 2022
 
 - title: Organizing Committee
   type: time_table
   contents:
-      - title: Publication Chair
-        institution: <font color="#3333FF"><a href="https://dyspan2024.ieee-dyspan.org" target="_blank"> IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)</a></font>
-        year: 2024
-     - title: Track Co-chair
-        institution: <a href="https://ieee-msn.org/2023/progcom.php" target="_blank"><font color="#3333FF"> IEEE International Conference on Mobility, Sensing and Networking (MSN)</font></a>
-        year: 2023
-      - title: EDAS Chair
-        institution: <a href="https://milcom2023.milcom.org/committees/organizing-committee" target="_blank"><font color="#3333FF"> IEEE Military Communications Conference (MILCOM)</font></a>
-        year: 2023
-      - title: Publicity Co-chair
-        institution: <font color="#3333FF"><a href="https://ccnc2024.ieee-ccnc.org/committees/organizing-committee" target="_blank">IEEE CCNC</a></font>
-        year: 2022-2024
-      - title: Web Chair
-        institution: <font color="#3333FF"><a href="https://dyspan2021.ieee-dyspan.org" target="_blank">IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)</a></font>
-        year: 2021
-      - title: Online and Poster Co-chair
-        institution: <a href="https://lanman2021.ieee-lanman.org/committee/" target="_blank">IEEE International Symposium on Local and Metropolitan Area Networks (LANMAN)</a></font>
-        year: 2021
-      - title: Session Chair
-        institution: <a href="https://infocom2023.ieee-infocom.org" target="_blank">IEEE International Conference on Computer Communications (INFOCOM)</a></font>
-        year: 2021, 2023
+    - title: Publication Chair
+      institution: <font color="#3333FF"><a href="https://dyspan2024.ieee-dyspan.org" target="_blank"> IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)</a></font>
+      year: 2024
+    - title: Track Co-chair
+      institution: <a href="https://ieee-msn.org/2023/progcom.php" target="_blank"><font color="#3333FF"> IEEE International Conference on Mobility, Sensing and Networking (MSN)</font></a>
+      year: 2023
+    - title: EDAS Chair
+      institution: <a href="https://milcom2023.milcom.org/committees/organizing-committee" target="_blank"><font color="#3333FF"> IEEE Military Communications Conference (MILCOM)</font></a>
+      year: 2023
+    - title: Publicity Co-chair
+      institution: <font color="#3333FF"><a href="https://ccnc2024.ieee-ccnc.org/committees/organizing-committee" target="_blank">IEEE CCNC</a></font>
+      year: 2022-2024
+    - title: Web Chair
+      institution: <font color="#3333FF"><a href="https://dyspan2021.ieee-dyspan.org" target="_blank">IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)</a></font>
+      year: 2021
+    - title: Online and Poster Co-chair
+      institution: <a href="https://lanman2021.ieee-lanman.org/committee/" target="_blank">IEEE International Symposium on Local and Metropolitan Area Networks (LANMAN)</a></font>
+      year: 2021
+    - title: Session Chair
+      institution: <a href="https://infocom2023.ieee-infocom.org" target="_blank">IEEE International Conference on Computer Communications (INFOCOM)</a></font>
+      year: 2021, 2023
 
 - title: Technical Program Committee
   type: time_table
