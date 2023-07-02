@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 permalink: /collaborators/
 title: collaborators
 <!-- nav: true
