@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-08-15 16:11:00-0400
+date: 2023-08-01 16:11:00-0400
 inline: true
 
 Looking for PhD students with funding!!
