@@ -8,9 +8,6 @@ children:
     - title: datasets
       permalink: /datasets/
     - title: divider
-    - title: patents
-      permalink: /projects/
-    - title: divider
     - title: collaborators
       permalink: /projects/
 
