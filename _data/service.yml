@@ -1,43 +1,26 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Debashri Roy
-    # - name: Date of Birth
-    #   value: 27th July 1987
-    - name: Current Affilication
-      value: University of Texas Arlington
-    - name: Languages
-      value: English, Bengali, Hindi
-
-- title: Education
+- title: Moderator
   type: time_table
   contents:
-    - title: Doctor of Philosophy
-      institution: University of Central Forida, Florida, USA
-      year: 2020
-      description:
-        - Department of Computer Science
-        - <a href= "http://www1.coe.neu.edu/~droy/Doctoral_Dissertation_Debashri_Roy.pdf" parent = '_blank'> Dissertation Link </a>
+    - title: IEEE ComSoc Young Professional Event
+      institution: IEEE Consumer Communications & Networking Conference (CCNC)
+      year: 2022
+      description: <a href= "https://zoom.us/rec/play/2P5sPFfZR_Rrh-t1sQxw4t1cb1WYw8bYcDry_0_PgiQF5WaUBCw2GlJVhL2CdNVriuY4fTpqpCurZGdb.tRpyNjU9Is_Fkwcp?continueMode=true&_x_zm_rtaid=kPWO5mAEQMuBdyo2y7U3zA.1663620856349.c3eee56508ea1bd89ebf396e31382ea4&_x_zm_rhtaid=971" parent = '_blank'> Video link  </a>
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: Master of Science
-      institution: University of Central Forida, Florida, USA
-      year: 2018
-      description:
-    - title: Master of Engineering in Information and Communication Engineering
-      institution: Indian Institute of Engineering Science and Technology, Shibpur, India
-      year: 2013
-      description:
-        - Department of Information Technology
-        - <a href= "http://www1.coe.neu.edu/~droy/MS_Thesis_Debashri_Roy.pdf" parent = '_blank'> Thesis Link </a>
-    - title: Bachelor of Engineering in Information Technology
-      institution: Indian Institute of Engineering Science and Technology, Shibpur, India
-      year: 2009
-      description:
-        - Department of Information Technology
+    - title: Panel on “Women in AI Networking – Industry Career”
+      institution: NSF Woman in AI Panel
+      year: 2022
+      description: <a href= "https://www.youtube.com/watch?v=rRiJEnOiWAU&feature=youtu.be" parent = '_blank'> Video link  </a>
+
+- title: Tutorial
+  type: time_table
+  contents:
+    - title: Practical Use of SDR for Machine Learning in RF Environments
+      institution: ACM Southeast Conference (ACMSE)
+      year: 2022
+      description: <a href= "https://acmse.net/2022/tutorials-offered/#tut-work01" parent = '_blank'> Video link  </a>
 
 - title: Experience
   type: time_table
