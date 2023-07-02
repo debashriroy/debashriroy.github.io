@@ -9,6 +9,6 @@ children:
       permalink: /datasets/
     - title: divider
     - title: collaborators
-      permalink: /projects/
+      permalink: /collaborators/
 
 ---
