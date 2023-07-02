@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-11-15 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Received National Science Foudnation Sponsored Award with <a href="https://genesys-lab.org" parent = '_blank'> Prof. Kaushik Chowdhury</a> and <a href="https://www.ou.edu/coe/ece/faculty_directory/dr_ruyle" parent = '_blank'> Prof. Jessica Ruyle</a> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229444&HistoricalAwards=false" parent = '_blank'> `MEDUSA_Mid-band Environmental Sensing Capability for Detecting Incumbents during Spectrum Sharing'</a>, NSF Division Of Computer and Network Systems, SWIFT Program, Nov. 2022 - Oct. 2025, Co-PI. Total Funding $750,000; Roy’s share $188,066! :sparkles: :smile:
