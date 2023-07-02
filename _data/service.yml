@@ -32,18 +32,18 @@
       institution: <a href="https://www.journals.elsevier.com/computer-communications/editorial-board" target="_blank"><font color="#3333FF">Elsevier Computer Communications</font></a>
       year: 2022-
 
-# - title: Board Member
-#   type: time_table
-#   contents:
-#     - title: Vice Chair
-#       institution: AI/ML Section SIG IEEE Technical Committee on Cognitive Networks
-#       year: 2023
-#     - title: Mentoring Co-Chair
-#       institution: IEEE ComSoc <a href="https://n2women.comsoc.org/officers/2022-n2women-board/" target="_blank"><font color="#3333FF"> N2Women Board</font></a>
-#       year: 2022
-#     - title: Panel Member
-#       institution: 'Women in AI and Networking' Panel in <a href="https://aiedge.osu.edu/women-ai" target="_blank"><font color="#3333FF"> NSF AI Edge Institute</font></a>
-#       year: 2022
+- title: Board Member
+  type: time_table
+  contents:
+    - title: Vice Chair
+      institution: AI/ML Section SIG IEEE Technical Committee on Cognitive Networks
+      year: 2023
+    - title: Mentoring Co-Chair
+      institution: IEEE ComSoc <a href="https://n2women.comsoc.org/officers/2022-n2women-board/" target="_blank"><font color="#3333FF"> N2Women Board</font></a>
+      year: 2022
+    - title: Panel Member
+      institution: Women in AI and Networking Panel in <a href="https://aiedge.osu.edu/women-ai" target="_blank"><font color="#3333FF"> NSF AI Edge Institute</font></a>
+      year: 2022
 
 - title: Organizing Committee
   type: time_table
