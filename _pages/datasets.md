@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <!-- pages/datasets.md -->
-<div class="projects">
+<div class="datasets">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
