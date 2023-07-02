@@ -5,7 +5,7 @@ permalink: /datasets/
 description: A growing collection of the datasets I have contributed to!
 nav: true
 nav_order: 2
-display_categories: [work]
+display_categories: [work, fun]
 horizontal: false
 ---
 
@@ -37,7 +37,7 @@ horizontal: false
 
 {%- else -%}
 <!-- Display projects without categories -->
-  {%- assign sorted_projects = site.datasets | sort: "importance" -%}
+  {%- assign sorted_projects = site.projects | sort: "importance" -%}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
