@@ -6,7 +6,7 @@ nav_order: 7
 dropdown: true
 children:
     - title: datasets
-      permalink: /publications/
+      permalink: /datasets/
     - title: divider
     - title: patents
       permalink: /projects/

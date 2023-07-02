@@ -1,9 +1,11 @@
 ---
 layout: post
+title: Prospective students
 date: 2023-08-01 16:11:00-0400
-inline: true
+inline: false
+---
 
-Looking for PhD students with funding!!
+We have several positions open for Ph.D. students. Highly ambitious and self-motivated students with wireless communication, signal processing, cybersecurity or machine learning background are encouraged to send their CVs, transcripts, representative publications, GRE and TOEFL scores to Dr. Debashri Roy (d.roy AT northeastern.edu), specifying their key research interests as well as their academic credentials.
 
 ---
 
