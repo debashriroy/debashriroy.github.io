@@ -1,12 +1,12 @@
 - title: Editorial Board
   type: time_table
   contents:
-    - title: Associate Editor
-      institution: <a href="https://www.journals.elsevier.com/software-impacts/editorial-board" target="_blank"><font color="#3333FF">Elsevier Software Impacts</font></a>
-      year: 2021-
     - title: Area Editor
       institution: <a href="https://www.journals.elsevier.com/computer-communications/editorial-board" target="_blank"><font color="#3333FF">Elsevier Computer Communications</font></a>
       year: 2022-
+    - title: Associate Editor
+      institution: <a href="https://www.journals.elsevier.com/software-impacts/editorial-board" target="_blank"><font color="#3333FF">Elsevier Software Impacts</font></a>
+      year: 2021-
 
 - title: Board Member
   type: time_table
