@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: collaborators
 permalink: /collaborators/
 title: collaborators
 <!-- nav: true

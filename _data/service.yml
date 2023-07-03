@@ -98,12 +98,14 @@
           - In 'Serverless To sErvE moRe at Scale' workshop <font color="#3333FF">(ACM CCGrid)</font>
 
 - title: Reviewer in Transactions and Journals
-  type: Transactions
+  type: nested_list
   contents:
-    - IEEE Journal on Selected Areas in Communications, IEEE Transactions on Communications, IEEE Transactions on Wireless Communications, IEEE Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Vehicular Technology, IEEE Transactions on Information Forensics & Security, IEEE Transactions on Cognitive Communications and Networking, IEEE Transactions on Intelligent Transportation Systems.
-  type: Magazines
-  contents:
-    - IEEE Internet of Things Magazine, IEEE Networks Magazine, IEEE Communications Magazine, IEEE Communications Letters, IEEE Networking Letters.
-  type: Journals
-  contents:
-   - Elsevier Pervasive and Mobile Computing, Elsevier Computer Communications, Elsevier Computational and Structural Biotechnology.
+    - title: Transactions
+      items:
+          - IEEE Journal on Selected Areas in Communications, IEEE Transactions on Communications, IEEE Transactions on Wireless Communications, IEEE Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Vehicular Technology, IEEE Transactions on Information Forensics & Security, IEEE Transactions on Cognitive Communications and Networking, IEEE Transactions on Intelligent Transportation Systems.
+    - title: Magazines
+      items:
+        - IEEE Internet of Things Magazine, IEEE Networks Magazine, IEEE Communications Magazine, IEEE Communications Letters, IEEE Networking Letters.
+    - title: Journals
+      items:
+         - Elsevier Pervasive and Mobile Computing, Elsevier Computer Communications, Elsevier Computational and Structural Biotechnology.
