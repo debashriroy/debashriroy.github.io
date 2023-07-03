@@ -2,7 +2,7 @@
   type: time_table
   contents:
     - title: Associate Editor
-      institution: <a href="https://www.journals.elsevier.com/software-impacts/editorial-board" target="_blank"><font color="#3333FF">Elsevier Software Impacts</font></a> 
+      institution: <a href="https://www.journals.elsevier.com/software-impacts/editorial-board" target="_blank"><font color="#3333FF">Elsevier Software Impacts</font></a>
       year: 2021-
     - title: Area Editor
       institution: <a href="https://www.journals.elsevier.com/computer-communications/editorial-board" target="_blank"><font color="#3333FF">Elsevier Computer Communications</font></a>
@@ -44,7 +44,7 @@
       year: 2021
     - title: Session Chair
       institution: <a href="https://infocom2023.ieee-infocom.org" target="_blank">IEEE International Conference on Computer Communications (INFOCOM)</a></font>
-      year: 2021, 2023
+      year: 2021-2023
 
 - title: Technical Program Committee
   type: time_table

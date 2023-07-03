@@ -10,5 +10,8 @@ children:
     - title: divider
     - title: collaborators
       permalink: /collaborators/
+    - title: repositories
+      permalink: /repositories/
+    - title: divider
 
 ---
