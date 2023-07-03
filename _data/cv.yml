@@ -10,6 +10,40 @@
     - name: Languages
       value: English, Bengali, Hindi
 
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items:
+        - Received National Science Foundation Sponsored Award with <a href="https://genesys-lab.org" parent = '_blank'> Prof. Kaushik Chowdhury</a> and <a href="https://www.ou.edu/coe/ece/faculty_directory/dr_ruyle" parent = '_blank'> Prof. Jessica Ruyle</a> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229444&HistoricalAwards=false" parent = '_blank'> 'MEDUSA_Mid-band Environmental Sensing Capability for Detecting Incumbents during Spectrum Sharing'</a>, NSF Division Of Computer and Network Systems, SWIFT Program, Nov. 2022 - Oct. 2025, Co-PI. Total Funding $750,000; Roy’s share $188,066.
+        - IEEE Senior Memebership
+        # - Matteucci Medal
+    - year: 2019
+      items:
+        # - Best Paper Runner-up , IEEE International Performance, Computing, and Communications Conference, USA.
+        - Doctoral Research Support Award from College of Graduate Studies of University of Central Florida, USA, 2019, Amount $5000 .
+        - NSF Student Travel Grant, IEEE Global Communication Conference (GLOBECOM), USA, 2019, Amount $1200.
+        - NSF Student Travel Grant, IEEE International Symposium on dynamic Spectrum Access Networks (DySPAN), USA, 2019, Amount $800 .
+    - year: 2018
+      items:
+        - Best Paper Runner-up, IEEE International Performance, Computing, and Communications Conference, USA.
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Multimodal Sensor Fusion
+      items:
+        - Deep learning based fusion of multimodal sensing data from LiDAR, camera, GPS, acoustic, radar, and radio frequency sensors for situational assessment, enabling digital twins and autonomous vehicles.
+        - Practical demonstration on millimeter wave band and V2X networks.
+    - title: Deep Spectrum Learning in NextG Communication
+      items:
+        - Deep learning based solutions in wireless spectrum sensing, sharing, signal detection, and RF fingerprinting.
+        - Applied research in the CBRS and sub-6 GHz band.
+    - title: Networked Robotics
+      items:
+        - Reinforcement learning for coordination, computation and communication for unmanned autonomous systems.
+        - Real-world and emulation study on automated factory floor in Industry 4.0.
+
 - title: Education
   type: time_table
   contents:
@@ -113,39 +147,6 @@
       description: This github repo releases the codes for different fusion frameworks on three different dataset containing IQ samples and Cyclostationary Signal Processing (CSP) features  <a href="https://genesys-lab.org/ICARUS" parent = '_blank'> [Dataset Link] </a>.
 
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2022
-      items:
-        - Received National Science Foundation Sponsored Award with <a href="https://genesys-lab.org" parent = '_blank'> Prof. Kaushik Chowdhury</a> and <a href="https://www.ou.edu/coe/ece/faculty_directory/dr_ruyle" parent = '_blank'> Prof. Jessica Ruyle</a> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229444&HistoricalAwards=false" parent = '_blank'> 'MEDUSA_Mid-band Environmental Sensing Capability for Detecting Incumbents during Spectrum Sharing'</a>, NSF Division Of Computer and Network Systems, SWIFT Program, Nov. 2022 - Oct. 2025, Co-PI. Total Funding $750,000; Roy’s share $188,066.
-        # - Matteucci Medal
-    - year: 2019
-      items:
-        # - Best Paper Runner-up , IEEE International Performance, Computing, and Communications Conference, USA.
-        - Doctoral Research Support Award from College of Graduate Studies of University of Central Florida, USA, 2019, Amount $5000 .
-        - NSF Student Travel Grant, IEEE Global Communication Conference (GLOBECOM), USA, 2019, Amount $1200.
-        - NSF Student Travel Grant, IEEE International Symposium on dynamic Spectrum Access Networks (DySPAN), USA, 2019, Amount $800 .
-    - year: 2018
-      items:
-        - Best Paper Runner-up, IEEE International Performance, Computing, and Communications Conference, USA.
-
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Multimodal Sensor Fusion
-      items:
-        - Deep learning based fusion of multimodal sensing data from LiDAR, camera, GPS, acoustic, radar, and radio frequency sensors for situational assessment, enabling digital twins and autonomous vehicles.
-        - Practical demonstration on millimeter wave band and V2X networks.
-    - title: Deep Spectrum Learning in NextG Communication
-      items:
-        - Deep learning based solutions in wireless spectrum sensing, sharing, signal detection, and RF fingerprinting.
-        - Applied research in the CBRS and sub-6 GHz band.
-    - title: Networked Robotics
-      items:
-        - Reinforcement learning for coordination, computation and communication for unmanned autonomous systems.
-        - Real-world and emulation study on automated factory floor in Industry 4.0.
 
 - title: Other Interests
   type: list
