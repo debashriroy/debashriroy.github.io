@@ -34,7 +34,7 @@
       institution: <a href="https://milcom2023.milcom.org/committees/organizing-committee" target="_blank"><font color="#3333FF"> IEEE Military Communications Conference (MILCOM)</font></a>
       year: 2023
     - title: Publicity Co-chair
-      institution: <font color="#3333FF"><a href="https://ccnc2024.ieee-ccnc.org/committees/organizing-committee" target="_blank">IEEE CCNC</a></font>
+      institution: <font color="#3333FF"><a href="https://ccnc2024.ieee-ccnc.org/committees/organizing-committee" target="_blank">IEEE Consumer Communications & Networking Conference (CCNC)</a></font>
       year: 2022-2024
     - title: Web Chair
       institution: <font color="#3333FF"><a href="https://dyspan2021.ieee-dyspan.org" target="_blank">IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)</a></font>
@@ -51,24 +51,24 @@
   contents:
       - year: 2023
         items:
-          - In ACM 'International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing' <font color="#3333FF">(MobiHoc)</font>
-          - In IEEE `Internet of Things and Cyber Physical Systems' at IEEE International Conference on Distributed Computing Systems <font color="#3333FF">(ICDCS)</font>
-          - In IEEE 'Mobile and Wireless Networks Symposium'  <font color="#3333FF">(IEEE ICC)</font>
-          - In IEEE 'Consumer Communications & Networking Conference’  <font color="#3333FF">(IEEE CCNC)</font>
+          - In ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing <font color="#3333FF">(ACM MobiHoc)</font>
+          - In IEEE `Internet of Things and Cyber Physical Systems' at IEEE International Conference on Distributed Computing Systems <font color="#3333FF">(IEEE ICDCS)</font>
+          - In IEEE 'Mobile and Wireless Networks Symposium'  track at IEEE International Conference on Communications  <font color="#3333FF">(IEEE ICC)</font>
+          - In IEEE Consumer Communications & Networking Conference  <font color="#3333FF">(IEEE CCNC)</font>
           - In IEEE 'Signal Transmission and Reception' track at IEEE 96th Vehicular Technology Conference  <font color="#3333FF">(IEEE VTC) </font>
       - year: 2022
         items:
-          - In ACM 'International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing' <font color="#3333FF">(MobiHoc)</font>
-          - In IEEE `Internet of Things and Cyber Physical Systems' at IEEE International Conference on Distributed Computing Systems <font color="#3333FF">(ICDCS)</font>
-          - In IEEE 'Mobile and Wireless Networks Symposium'  <font color="#3333FF">(IEEE ICC)</font>
-          - In IEEE 'Consumer Communications & Networking Conference’  <font color="#3333FF">(IEEE CCNC)</font>
-          - In IEEE 'International Symposium on Local and Metropolitan Area Networks' <font color="#3333FF">(IEEE LANMAN)</font>
+          - In ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing' <font color="#3333FF">(ACM MobiHoc)</font>
+          - In IEEE 'Internet of Things and Cyber Physical Systems' at IEEE International Conference on Distributed Computing Systems <font color="#3333FF">(IEEE ICDCS)</font>
+          - In IEEE 'Mobile and Wireless Networks Symposium' track at IEEE International Conference on Communications <font color="#3333FF">(IEEE ICC)</font>
+          - In IEEE Consumer Communications & Networking Conference  <font color="#3333FF">(IEEE CCNC)</font>
+          - In IEEE International Symposium on Local and Metropolitan Area Networks <font color="#3333FF">(IEEE LANMAN)</font>
           - In IEEE 'Green Communications and Networks' track at IEEE 95th Vehicular Technology Conference  <font color="#3333FF">(IEEE VTC) </font>
       - year: 2021
         items:
-          - In  IEEE 'International Symposium on Dynamic Spectrum Access Networks'  <font color="#3333FF">(IEEE DySPAN) </font>
+          - In IEEE International Symposium on Dynamic Spectrum Access Networks  <font color="#3333FF">(IEEE DySPAN) </font>
           - In 'Green Solutions for smArt Environment' workshop <font color="#3333FF">(IEEE ICC)</font>
-          - In 'AI/ML in Wireless Sensing, Communication and Applications' track <font color="#3333FF">(IEEE CCNC)</font>
+          - In 'AI/ML in Wireless Sensing, Communication and Applications' track at IEEE Consumer Communications & Networking Conference <font color="#3333FF">(IEEE CCNC)</font>
           - In 'Traffic Congestion in Beyond 5G/6G Networks' (TCB6GN)' workshop, in conjunction with <font color="#3333FF">IEEE CCNC </font>
           - In International Conference on Computer Communications and Networks <font color="#3333FF">(IEEE ICCCN)</font>
           - In 'Serverless To sErvE moRe at Scale' workshop <font color="#3333FF">(ACM CCGrid)</font>
