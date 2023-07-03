@@ -102,10 +102,24 @@
   contents:
     - title: Transactions
       items:
-          - IEEE Journal on Selected Areas in Communications, IEEE Transactions on Communications, IEEE Transactions on Wireless Communications, IEEE Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Vehicular Technology, IEEE Transactions on Information Forensics & Security, IEEE Transactions on Cognitive Communications and Networking, IEEE Transactions on Intelligent Transportation Systems.
-    - title: Magazines
+          - IEEE Journal on Selected Areas in Communications
+          - IEEE Transactions on Communications
+          - IEEE Transactions on Wireless Communications
+          - IEEE Transactions on Networking
+          - IEEE Transactions on Mobile Computing
+          - IEEE Transactions on Vehicular Technology
+          - IEEE Transactions on Information Forensics & Security
+          - IEEE Transactions on Cognitive Communications and Networking
+          - IEEE Transactions on Intelligent Transportation Systems
+    - title: Magazines and Letters
       items:
-        - IEEE Internet of Things Magazine, IEEE Networks Magazine, IEEE Communications Magazine, IEEE Communications Letters, IEEE Networking Letters.
+        - IEEE Internet of Things Magazine
+        - IEEE Networks Magazine
+        - IEEE Communications Magazine
+        - IEEE Communications Letters
+        - IEEE Networking Letters
     - title: Journals
       items:
-         - Elsevier Pervasive and Mobile Computing, Elsevier Computer Communications, Elsevier Computational and Structural Biotechnology.
+         - Elsevier Pervasive and Mobile Computing
+         - Elsevier Computer Communications
+         - Elsevier Computational and Structural Biotechnology
