@@ -1,27 +1,3 @@
-- title: Moderator
-  type: time_table
-  contents:
-    - title: IEEE ComSoc Young Professional Event
-      institution: IEEE Consumer Communications & Networking Conference (CCNC)
-      year: 2022
-      description: <a href= "https://zoom.us/rec/play/2P5sPFfZR_Rrh-t1sQxw4t1cb1WYw8bYcDry_0_PgiQF5WaUBCw2GlJVhL2CdNVriuY4fTpqpCurZGdb.tRpyNjU9Is_Fkwcp?continueMode=true&_x_zm_rtaid=kPWO5mAEQMuBdyo2y7U3zA.1663620856349.c3eee56508ea1bd89ebf396e31382ea4&_x_zm_rhtaid=971" parent = '_blank'> Video link  </a>
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
-    - title: Panel on “Women in AI Networking – Industry Career”
-      institution: NSF Woman in AI Panel
-      year: 2022
-      description: <a href= "https://www.youtube.com/watch?v=rRiJEnOiWAU&feature=youtu.be" parent = '_blank'> Video link  </a>
-
-- title: Tutorial
-  type: time_table
-  contents:
-    - title: Practical Use of SDR for Machine Learning in RF Environments
-      institution: ACM Southeast Conference (ACMSE)
-      year: 2022
-      description: <a href= "https://acmse.net/2022/tutorials-offered/#tut-work01" parent = '_blank'> Video link  </a>
-
 - title: Editorial Board
   type: time_table
   contents:
@@ -96,6 +72,30 @@
           - In 'Traffic Congestion in Beyond 5G/6G Networks' (TCB6GN)' workshop, in conjunction with <font color="#3333FF">IEEE CCNC </font>
           - In International Conference on Computer Communications and Networks <font color="#3333FF">(IEEE ICCCN)</font>
           - In 'Serverless To sErvE moRe at Scale' workshop <font color="#3333FF">(ACM CCGrid)</font>
+
+- title: Moderator
+  type: time_table
+  contents:
+    - title: IEEE ComSoc Young Professional Event
+      institution: IEEE Consumer Communications & Networking Conference (CCNC)
+      year: 2022
+      description: <a href= "https://zoom.us/rec/play/2P5sPFfZR_Rrh-t1sQxw4t1cb1WYw8bYcDry_0_PgiQF5WaUBCw2GlJVhL2CdNVriuY4fTpqpCurZGdb.tRpyNjU9Is_Fkwcp?continueMode=true&_x_zm_rtaid=kPWO5mAEQMuBdyo2y7U3zA.1663620856349.c3eee56508ea1bd89ebf396e31382ea4&_x_zm_rhtaid=971" parent = '_blank'> Video link  </a>
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Panel on “Women in AI Networking – Industry Career”
+      institution: NSF Woman in AI Panel
+      year: 2022
+      description: <a href= "https://www.youtube.com/watch?v=rRiJEnOiWAU&feature=youtu.be" parent = '_blank'> Video link  </a>
+
+- title: Tutorial
+  type: time_table
+  contents:
+    - title: Practical Use of SDR for Machine Learning in RF Environments
+      institution: ACM Southeast Conference (ACMSE)
+      year: 2022
+      description: <a href= "https://acmse.net/2022/tutorials-offered/#tut-work01" parent = '_blank'> Video link  </a>
 
 - title: Reviewer in Transactions and Journals
   type: nested_list
