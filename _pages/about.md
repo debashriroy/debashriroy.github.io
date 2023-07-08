@@ -12,6 +12,7 @@ profile:
     <p>Office: TBD</p>
     <p>701 S. Nedderman Drive</p>
     <p>Arlington, TX 76019</p>
+    <p>debashri.roy@uta.edu</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
