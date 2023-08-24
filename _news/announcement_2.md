@@ -5,7 +5,7 @@ date: 2023-07-01 16:11:00-0400
 inline: false
 ---
 
-We have several positions open for Ph.D. students. Highly ambitious and self-motivated students with wireless communication, signal processing, cybersecurity or machine learning background are encouraged to send their CVs, transcripts, representative publications, GRE and TOEFL scores to Dr. Debashri Roy (d.roy AT northeastern.edu), specifying their key research interests as well as their academic credentials.
+We have several positions open for Ph.D. students. Highly ambitious and self-motivated students with wireless communication, signal processing, cybersecurity or machine learning background are encouraged to send their CVs, transcripts, representative publications, GRE and TOEFL scores to Dr. Debashri Roy (debashri.roy@uta.edu), specifying their key research interests as well as their academic credentials.
 
 ---
 
