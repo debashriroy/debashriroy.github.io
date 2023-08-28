@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office: TBD</p>
+    <p>Office: ERB 453</p>
     <p>701 S. Nedderman Drive</p>
     <p>Arlington, TX 76019</p>
     <p>debashri.roy@uta.edu</p>
