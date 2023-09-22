@@ -1,6 +1,6 @@
 ---
 layout: page
-title: mmWave comms
+title: mmWave Comms
 description: Non-RF Sensor Guided Beam Selection in mmWave V2X Network
 img: assets/img/V2X_network_setup.png
 importance: 1
