@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 permalink: /people/
 title: people
 description: People in my group
