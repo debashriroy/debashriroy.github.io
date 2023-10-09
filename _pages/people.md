@@ -22,6 +22,6 @@ profile:
 
 <b> Undergraduate Student</b> : Mitali Alpeshbhai Mayani, Computer Science and Engineering, Expected graduation: Spring 2026.
 
-<b> Undergraduate Student</b> : Duy Quang Pham, Computer Science and Engineering, Expected graduation: Spring 2026.
+<b> Undergraduate Student</b> : Duy Quang Pham, Computer Science and Engineering, Expected graduation: Spring 2026.  Duy is an enthusiastic computer scientist who is interested in AI, Machine Learning, Software. He is able to work well both in a team environment as well as using his own initiative. He is currently looking for a summer internship so that He can use his knowledge to serve the community.
 
 <b> Undergraduate Student</b> : Tin Duc  Ngo, Computer Science and Engineering, Expected graduation: Spring 2026.
