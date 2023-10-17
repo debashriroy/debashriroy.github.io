@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /TWIST-Lab/
-title: people
+title: TWIST Lab @UT Arlington
 description: Welcome to Transformative WIreless Systems and Technology (TWIST) Lab.
 nav: true
 nav_order: 7
