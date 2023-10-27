@@ -12,13 +12,14 @@ nav_order: 7
   image_circular: true # crops the image to make it circular -->
 
 ---
-<img src="assets/img/Group1.png"
-     alt="Team TWIST"
-     style="float: left; margin-right: 10px;" />
-
-<img src="assets/img/Group2.png"
-     alt="Team TWIST"
-     style="float: left; margin-right: 10px;" />
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Group1.png" title="Team Lunch" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Group2.png" title="Team TWIST" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 <b> Sunday Amatare </b>(PhD Student) : Sunday Amatare is pursuing his PhD in Computer Science at the University of Texas at Arlington. Before enrolling for his PhD, he completed his BS and MS in Computer Science from the University of Ilorin (Nigeria) and the University of Ibadan (Nigeria) respectively. His research interest lies in the application of Machine Learning in Wireless Communication.
 
