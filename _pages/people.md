@@ -12,6 +12,14 @@ nav_order: 7
   image_circular: true # crops the image to make it circular -->
 
 ---
+<img src="Group1.png"
+     alt="Team TWIST"
+     style="float: left; margin-right: 10px;" />
+
+<img src="Group2.png"
+     alt="Team TWIST"
+     style="float: left; margin-right: 10px;" />
+
 <b> Sunday Amatare </b>(PhD Student) : Sunday Amatare is pursuing his PhD in Computer Science at the University of Texas at Arlington. Before enrolling for his PhD, he completed his BS and MS in Computer Science from the University of Ilorin (Nigeria) and the University of Ibadan (Nigeria) respectively. His research interest lies in the application of Machine Learning in Wireless Communication.
 
 <b> Michelle Samson </b>(Masters Student) : Computer Science and Engineering, Expected graduation: Spring 2024.
