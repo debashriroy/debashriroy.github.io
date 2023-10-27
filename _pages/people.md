@@ -12,11 +12,11 @@ nav_order: 7
   image_circular: true # crops the image to make it circular -->
 
 ---
-<img src="./assets/img/Group1.png"
+<img src="assets/img/Group1.png"
      alt="Team TWIST"
      style="float: left; margin-right: 10px;" />
 
-<img src="./assets/img/Group2.png"
+<img src="assets/img/Group2.png"
      alt="Team TWIST"
      style="float: left; margin-right: 10px;" />
 
