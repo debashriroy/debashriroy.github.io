@@ -30,8 +30,11 @@ nav_order: 7
 
 <b> Samantha Salgado </b> (Undergraduate Student): Computer Science and Engineering, Expected graduation: Spring 2026.
 
-<b> Mitali Alpeshbhai Mayani </b>(Undergraduate Student) : Computer Science and Engineering, Expected graduation: Spring 2027.
+[//]: # (<b> Mitali Alpeshbhai Mayani </b>&#40;Undergraduate Student&#41; : Computer Science and Engineering, Expected graduation: Spring 2027.)
 
 <b> Duy Quang Pham </b>(Undergraduate Student) : Computer Science and Engineering, Expected graduation: Spring 2026.  Duy is an enthusiastic computer scientist who is interested in AI, Machine Learning, Software. He is able to work well both in a team environment as well as using his own initiative. He is currently looking for a summer internship so that He can use his knowledge to serve the community.
 
 <b> Tin Duc  Ngo </b>(Undergraduate Student) : Computer Science and Engineering, Expected graduation: Spring 2026.
+
+<b> Fuhad Foesal Ahmed </b>(Undergraduate Student) : Mechanical Engineering, Expected graduation: Spring 2025.
+
