@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /TWiST-Lab/
-title: TWIST Lab
+title: TWiST Lab
 description: Welcome to Transformative Wireless Systems and Technology (TWiST) Lab at UT Arlington.
 nav: true
 nav_order: 7
