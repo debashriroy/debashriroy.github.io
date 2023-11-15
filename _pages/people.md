@@ -38,4 +38,4 @@ nav_order: 7
 
 <b> Fuhad Foesal Ahmed </b>(Undergraduate Student) : Mechanical Engineering, Expected graduation: Spring 2025.
 
- 
+<p>Contact Details: Say hi to us at Bioengineering Lab Building (ELB 323), email us at twistlabroy@gmail.com</p>
