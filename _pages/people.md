@@ -28,7 +28,7 @@ nav_order: 7
 
 <b> Mohammad Hasibur Rahman </b>(Undergraduate Student) : Computer Science and Engineering, Expected graduation: Spring 2026. Mohammad is a freshman majoring in Computer Science with an interest in AI. He is highly passionate about research and his enthusiasm includes Machine Learning models, LLM applications, Computer Vision, Natural Language Processing.
 
-<b> Samantha Salgado </b> (Undergraduate Student): Computer Science and Engineering, Expected graduation: Spring 2026.
+[//]: # (<b> Samantha Salgado </b> &#40;Undergraduate Student&#41;: Computer Science and Engineering, Expected graduation: Spring 2026.)
 
 [//]: # (<b> Mitali Alpeshbhai Mayani </b>&#40;Undergraduate Student&#41; : Computer Science and Engineering, Expected graduation: Spring 2027.)
 
