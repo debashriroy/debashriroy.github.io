@@ -7,10 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like! -->
-
-I'll be teaching CSE 1320 Intermediate Programming in Fall 2023 at University of Arlington Texas!
+I teach CSE 1320 Intermediate Programming from Fall 2023 at University of Arlington Texas! <a href="https://www.uta.edu/academics/faculty/profile?username=royd3#Teaching" target ="_blank">Syllabus</a>
 
 As a graduate research assistant, I had the opportunity to work with the various professors to teach the following courses: Operating Systems(COP 4600), System Software (COP 3402), Computer Science II (COP 3503), Object Oriented Programming (COP 3330).
