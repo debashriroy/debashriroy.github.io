@@ -12,6 +12,9 @@ nav_order: 7
   image_circular: true # crops the image to make it circular -->
 
 ---
+
+Please take a virtual trip to where we work: <a href= "https://poly.cam/capture/FB128A2E-42F5-4242-95F6-6895D4380588?fbclid=IwAR1JTLKYP8ozoFFH1DG2GOqYw5kzZn37P38ERspH3QBAIh__8w-r55HikSM" parent = '_blank'>Cubicles </a>, <a href= "https://poly.cam/capture/663028FE-3197-4D0F-A568-908A28403EBC" parent = '_blank'> Lab floor </a>.
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Group1.png" title="Team Lunch" class="img-fluid rounded z-depth-1" %}
