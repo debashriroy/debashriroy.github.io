@@ -43,19 +43,19 @@ nav_order: 7
 
 
 <div class="row justify-content-sm-center">
-<div class="col-sm-2 mt-6 mt-md-0">
+<div class="col-sm-2 mt-4 mt-md-0">
     {% include figure.html path="assets/img/Michelle_Samson.png" title="Michelle" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-10 mt-6 mt-md-0">
+    <div class="col-sm-10 mt-4 mt-md-0">
   <b>  Michelle Samson </b> is a fast-track graduate student chosen from a pool of 3000 peers, pursuing master of science in Computer Engineering at The University of Texas at Arlington. Driven by relentless ambition, she forges innovative software solutions to actively better our world. As a devoted research assistant, she channels my skills with precision and passion, shaping a future of impactful contributions. Expected graduation: Spring 2024.
 </div>
 </div>
 
 <div class="row justify-content-sm-center">
-<div class="col-sm-2 mt-4 mt-md-0">
+<div class="col-sm-2 mt-6 mt-md-0">
     {% include figure.html path="assets/img/Mohammad.jpg" title="Mohammad" class="img-fluid rounded z-depth-1" %}
     </div>
-  <div class="col-sm-10 mt-4 mt-md-0">
+  <div class="col-sm-10 mt-6 mt-md-0">
 <b> Mohammad Hasibur Rahman </b>(Undergraduate Student) : Computer Science and Engineering, Expected graduation: Spring 2026. Mohammad is a freshman majoring in Computer Science with an interest in AI. He is highly passionate about research and his enthusiasm includes Machine Learning models, LLM applications, Computer Vision, Natural Language Processing.
 </div>
 </div>
