@@ -29,7 +29,7 @@ Please take a virtual trip to where we work: <a href= "https://poly.cam/capture/
 <div class="col-sm-2 mt-3 mt-md-0">
     {% include figure.html path="assets/img/Sunday_pic.jpg" title="Team Lunch" class="img-fluid rounded z-depth-1" %}
     </div>
-<b> Sunday Amatare </b>(PhD Student) : Sunday Amatare is pursuing his PhD in Computer Science at the University of Texas at Arlington. Before enrolling for his PhD, he completed his BS and MS in Computer Science from the University of Ilorin (Nigeria) and the University of Ibadan (Nigeria) respectively. His research interest lies in the application of Machine Learning in Wireless Communication.
+<b> Sunday Amatare </b> (PhD Student) : Sunday Amatare is pursuing his PhD in Computer Science at the University of Texas at Arlington. Before enrolling for his PhD, he completed his BS and MS in Computer Science from the University of Ilorin (Nigeria) and the University of Ibadan (Nigeria) respectively. His research interest lies in the application of Machine Learning in Wireless Communication.
 </div>
 
 
