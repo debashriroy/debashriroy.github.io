@@ -32,7 +32,13 @@ Please take a virtual trip to where we work: <a href= "https://poly.cam/capture/
 <b> Sunday Amatare </b>(PhD Student) : Sunday Amatare is pursuing his PhD in Computer Science at the University of Texas at Arlington. Before enrolling for his PhD, he completed his BS and MS in Computer Science from the University of Ilorin (Nigeria) and the University of Ibadan (Nigeria) respectively. His research interest lies in the application of Machine Learning in Wireless Communication.
 </div>
 
+
+<div class="row justify-content-sm-center">
+<div class="col-sm-2 mt-3 mt-md-0">
+    {% include figure.html path="assets/img/Michelle_Samson.png" title="Team Lunch" class="img-fluid rounded z-depth-1" %}
+    </div>
 <b> Michelle Samson </b>(Masters Student) : In the realm of Computer Engineering, Michelle Samson—a fast-track graduate student is chosen from a pool of 3000 peers. Driven by relentless ambition, she forges innovative software solutions to actively better our world. As a devoted research assistant, she channels my skills with precision and passion, shaping a future of impactful contributions. Expected graduation: Spring 2024.
+</div>
 
 <b> Mohammad Hasibur Rahman </b>(Undergraduate Student) : Computer Science and Engineering, Expected graduation: Spring 2026. Mohammad is a freshman majoring in Computer Science with an interest in AI. He is highly passionate about research and his enthusiasm includes Machine Learning models, LLM applications, Computer Vision, Natural Language Processing.
 
