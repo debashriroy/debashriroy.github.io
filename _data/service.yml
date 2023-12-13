@@ -24,6 +24,9 @@
 - title: Organizing Committee
   type: time_table
   contents:
+    - title: Unclassified Technical Program Co-Chair
+      institution: <font color="#3333FF"><a href="https://milcom2024.ieee-milcom.org" target="_blank"> IEEE Military Communications Conference (MILCOM)</a></font>
+      year: 2024
     - title: Publication Chair
       institution: <font color="#3333FF"><a href="https://dyspan2024.ieee-dyspan.org" target="_blank"> IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)</a></font>
       year: 2024
