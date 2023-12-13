@@ -28,14 +28,18 @@ Please take a virtual trip to where we work: <a href= "https://poly.cam/capture/
 <div class="row justify-content-sm-center">
 <div class="col-sm-2 mt-3 mt-md-0">
     {% include figure.html path="assets/img/Sunday_pic.jpg" title="Team Lunch" class="img-fluid rounded z-depth-1" %}
-    </div> Sunday Amatare is pursuing his PhD in Computer Science at The University of Texas at Arlington. Before enrolling for his PhD, he completed his BS and MS in Computer Science from the University of Ilorin (Nigeria) and the University of Ibadan (Nigeria) respectively. His research interest lies in the application of Machine Learning in Wireless Communication.
+    </div>
+    <div class="col-sm-10 mt-3 mt-md-0">
+    Sunday Amatare is pursuing his PhD in Computer Science at The University of Texas at Arlington. Before enrolling for his PhD, he completed his BS and MS in Computer Science from the University of Ilorin (Nigeria) and the University of Ibadan (Nigeria) respectively. His research interest lies in the application of Machine Learning in Wireless Communication.
+      </div>
 </div>
 
 
 <div class="row justify-content-sm-center">
 <div class="col-sm-2 mt-3 mt-md-0">
     {% include figure.html path="assets/img/Michelle_Samson.png" title="Team Lunch" class="img-fluid rounded z-depth-1" %}
-    </div> <b> Michelle Samson—a fast-track graduate student is chosen from a pool of 3000 peers, pursuing master of science in Computer Engineering at The University of Texas at Arlington. Driven by relentless ambition, she forges innovative software solutions to actively better our world. As a devoted research assistant, she channels my skills with precision and passion, shaping a future of impactful contributions. Expected graduation: Spring 2024.
+    </div>
+Michelle Samson—a fast-track graduate student is chosen from a pool of 3000 peers, pursuing master of science in Computer Engineering at The University of Texas at Arlington. Driven by relentless ambition, she forges innovative software solutions to actively better our world. As a devoted research assistant, she channels my skills with precision and passion, shaping a future of impactful contributions. Expected graduation: Spring 2024.
 </div>
 
 
