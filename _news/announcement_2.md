@@ -6,9 +6,9 @@ title: Welcoming multiple members to the TWiST Lab
 date: 2024-01-01 16:11:00-0400
 inline: false
 ---
-We are welcoming multiple members to our group in Spring 2024. We are excited for our journey together.
+We are welcoming multiple members to our group in Spring 2024. We are excited for our journey together. :smile:
 
-In the meantime, we are also on lookout for highly ambitious and self-motivated students with wireless communication, signal processing, or machine learning background.  If you are interested please send your CVs, transcripts, representative publications, GRE and TOEFL scores to Dr. Debashri Roy (debashri.roy@uta.edu), specifying their key research interests as well as their academic credentials.
+In the meantime, we are also on lookout for highly ambitious and self-motivated students with wireless communication, signal processing, or machine learning background.  If you are interested please send your CVs, transcripts, representative publications, GRE and TOEFL scores to Dr. Debashri Roy (debashri.roy@uta.edu), specifying their key research interests as well as their academic credentials. :sparkles:
 
 <!-- We have several positions open for Ph.D. students. Highly ambitious and self-motivated students with wireless communication, signal processing, cybersecurity or machine learning background are encouraged to send their CVs, transcripts, representative publications, GRE and TOEFL scores to Dr. Debashri Roy (debashri.roy@uta.edu), specifying their key research interests as well as their academic credentials. -->
 
