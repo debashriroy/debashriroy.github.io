@@ -1,7 +1,6 @@
 ---
 layout: post
-<!-- title: NSF Award for Nov 2022 - Nov 2025 -->
-date: 2023-12-01 07:59:00-0400
+date: 2023-12-12 07:59:00-0400
 inline: true
 ---
 Excited to serve at MILCOM 2024 as Unclassified Technical Program Committee Co-chair!
