@@ -52,4 +52,4 @@ Please take a virtual trip to where we work: <a href= "https://poly.cam/capture/
 
 <b> Fuhad Foesal Ahmed </b>(Undergraduate Student) : Mechanical Engineering, Expected graduation: Spring 2025.
 
-<p>Contact Details: Say hi to us at Engineering Lab Building (ELB 323), email us at twistlabroy@gmail.com</p>
+<p>Contact Details: Say hi to us at Engineering Lab Building (ELB 323), email us at twistlab@uta.edu or twistlabroy@gmail.com</p>
