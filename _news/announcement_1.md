@@ -7,5 +7,3 @@ inline: true
 Excited to start my professional journey at University of Texas Arlington as Tenure-track Assistant Professor!
 
 ---
-
-<!-- Two papers got accepted in INFOCOM 2023! :smile: -->
