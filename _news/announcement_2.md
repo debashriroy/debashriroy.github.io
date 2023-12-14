@@ -6,7 +6,6 @@ inline: false
 ---
 
 We are welcoming multiple members to our group in Spring 2024. We are excited for our journey together. :smile:
-
 In the meantime, we are also on lookout for highly ambitious and self-motivated students with wireless communication, signal processing, or machine learning background.  If you are interested please send your CVs, transcripts, representative publications, GRE and TOEFL scores to Dr. Debashri Roy (debashri.roy@uta.edu), specifying their key research interests as well as their academic credentials. :sparkles:
 
 ---
