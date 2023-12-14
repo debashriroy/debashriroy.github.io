@@ -6,4 +6,3 @@ inline: true
 
 Excited to start my professional journey at University of Texas Arlington as Tenure-track Assistant Professor!
 
----
