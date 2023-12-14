@@ -41,6 +41,7 @@ nav_order: 7
       </div>
 </div>
 
+---
 
 <div class="row justify-content-sm-center">
 <div class="col-sm-2 mt-4 mt-md-0">
@@ -52,10 +53,10 @@ nav_order: 7
 </div>
 
 <div class="row justify-content-sm-center">
-<div class="col-sm-2 mt-6 mt-md-0">
+<div class="col-sm-2 mt-3 mt-md-0">
     {% include figure.html path="assets/img/Mohammad.jpg" title="Mohammad" class="img-fluid rounded z-depth-1" %}
     </div>
-  <div class="col-sm-10 mt-6 mt-md-0">
+  <div class="col-sm-10 mt-3 mt-md-0">
 <b> Mohammad Hasibur Rahman </b>(Undergraduate Student) : Computer Science and Engineering, Expected graduation: Spring 2026. Mohammad is a freshman majoring in Computer Science with an interest in AI. He is highly passionate about research and his enthusiasm includes Machine Learning models, LLM applications, Computer Vision, Natural Language Processing.
 </div>
 </div>
