@@ -68,17 +68,20 @@ nav_order: 7
 [//]: # (<b> Mitali Alpeshbhai Mayani </b>&#40;Undergraduate Student&#41; : Computer Science and Engineering, Expected graduation: Spring 2027.)
 
 <div class="row justify-content-sm-center">
-<div class="col-sm-2 mt-4 mt-md-0">
+<div class="col-sm-2 mt-3 mt-md-0">
     {% include figure.html path="assets/img/Duy.jpg" title="Duy" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-10 mt-4 mt-md-0">
-<b> Duy Quang Pham </b>(Undergraduate Student) : Computer Science and Engineering, Expected graduation: Spring 2026.  Duy is an enthusiastic computer scientist who is interested in AI, Machine Learning, Software. He is able to work well both in a team environment as well as using his own initiative. He is currently looking for a summer internship so that He can use his knowledge to serve the community.
+    <div class="col-sm-10 mt-3 mt-md-0">
+<b> Duy Quang Pham </b>(Undergraduate Student) : Computer Science and Engineering, Expected graduation: Spring 2025.  Duy is an enthusiastic computer scientist who is interested in AI, Machine Learning, Software. He is able to work well both in a team environment as well as using his own initiative. He is currently looking for a summer internship so that He can use his knowledge to serve the community.
 </div>
 </div>
 
 <div class="row justify-content-sm-center">
-<div class="col-sm-12 mt-3 mt-md-0">
-<b> Tin Duc  Ngo </b>(Undergraduate Student) : Computer Science and Engineering, Expected graduation: Spring 2026.
+<div class="col-sm-2 mt-4 mt-md-0">
+    {% include figure.html path="assets/img/Tin.jpg" title="Tin" class="img-fluid rounded z-depth-1" %}
+    </div>
+<div class="col-sm-10 mt-3 mt-md-0">
+<b> Tin Duc  Ngo </b>(Undergraduate Student) : Computer Science and Engineering, Expected graduation: Spring 2025. Tin is interested in mobile development, machine learning as well as networking and cybersecurity, he’s seeking opportunities that will allow him to gain more experience and make an impact to the tech industry and the world.
 </div>
 </div>
 
