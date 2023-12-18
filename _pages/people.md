@@ -86,8 +86,13 @@ nav_order: 7
 </div>
 
 <div class="row justify-content-sm-center">
+<div class="col-sm-2 mt-4 mt-md-0">
+    {% include figure.html path="assets/img/Fuhad.jpg" title="Fuhad" class="img-fluid rounded z-depth-1" %}
+    </div>
+<div class="col-sm-10 mt-3 mt-md-0">
 <div class="col-sm-12 mt-3 mt-md-0">
-<b> Fuhad Foesal Ahmed </b>(Undergraduate Student) : Mechanical Engineering, Expected graduation: Spring 2025.
+<b> Fuhad Foesal Ahmed </b>(Undergraduate Student) : Currently majoring in Mechanical Engineering, expected graduation: Fall 2026. As a Mechanical Engineering student, Fuhad brings his passion for mobile development, machine learning, and networking into the fascinating world of robotics. In his quest for knowledge and impact, he is looking for opportunities that extend beyond the classroom. He is driven by the desire to gain hands-on experience and contribute meaningfully to the tech industry.
+He is especially fascinated by the convergence of robotics technology and mechanical systems. Motivated by a desire to comprehend the internal mechanisms of machines and the complexities of their design, he is enthusiastic about the boundless opportunities that await in the tech industry.
 </div>
 </div>
 
