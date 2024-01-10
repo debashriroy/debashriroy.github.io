@@ -41,6 +41,15 @@ nav_order: 7
       </div>
 </div>
 
+<div class="row justify-content-sm-center">
+<div class="col-sm-2 mt-3 mt-md-0">
+    {% include figure.html path="assets/img/Gaurav.png" title="Gaurav" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-10 mt-3 mt-md-0">
+    <b> Gaurav Singh </b> is pursuing his Doctoral degree in Computer Science at the University of Texas at Arlington (UTA). He has completed his Master of Science (MS) in Advanced Computer Science (Artificial Intelligence) from the University of Leeds, United Kingdom. His research interests lie in Machine Learning, Artificial Intelligence, and their applications in wireless communication.
+      </div>
+</div>
+
 ---
 
 <div class="row justify-content-sm-center">
