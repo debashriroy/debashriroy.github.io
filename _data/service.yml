@@ -13,7 +13,7 @@
   contents:
     - title: Vice Chair
       institution: AI/ML Section SIG IEEE Technical Committee on Cognitive Networks
-      year: 2023
+      year: 2023-
     - title: Mentoring Co-Chair
       institution: IEEE ComSoc <a href="https://n2women.comsoc.org/officers/2022-n2women-board/" target="_blank"><font color="#3333FF"> N2Women Board</font></a>
       year: 2022
@@ -52,6 +52,15 @@
 - title: Technical Program Committee
   type: time_table
   contents:
+      - year: 2024
+        items:
+          - In ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing <font color="#3333FF">(ACM MobiHoc)</font>
+          - In IEEE Consumer Communications & Networking Conference  <font color="#3333FF">(IEEE CCNC)</font>
+          - In 'Mobile and Wireless Networks Symposium'  track at IEEE International Conference on Communications  <font color="#3333FF">(IEEE ICC)</font>
+          - In 'Cognitive Radio & AI-Enabled Networks'  track at IEEE International Conference on Communications  <font color="#3333FF">(IEEE ICC)</font>
+          - In 'Next Generation Spectrum Sharing Technology' workshop at IEEE International Conference on Communications  <font color="#3333FF">(IEEE ICC)</font>
+          - In IEEE IEEE International Symposium on Dynamic Spectrum Access Networks  <font color="#3333FF">(IEEE DySPAN)</font>
+
       - year: 2023
         items:
           - In ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing <font color="#3333FF">(ACM MobiHoc)</font>

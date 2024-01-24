@@ -5,5 +5,3 @@ inline: true
 ---
 
 Congratulations to Michelle Samson from TWiST Lab for acquiring the Innovation Scholarship from Greater Arlington Chamber of Commerce! :sparkle:
-
-
