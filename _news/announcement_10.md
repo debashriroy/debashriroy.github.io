@@ -12,6 +12,7 @@ inline: false
 </div>
 
 <a href="https://uta.engineering/ourcs/workshops.php" parent = '_blank'> [Robo-TWiST] AI with TWiST by Crafting Intelligent Robots </a>
+
 Venue - Feb 16 - 18, 2024 (Exact time TBA), ELB 323
 Research Project - Mapless Robot Navigation
 
