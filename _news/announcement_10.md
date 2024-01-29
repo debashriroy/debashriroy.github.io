@@ -11,7 +11,7 @@ inline: false
 </div>
 </div>
 
-Workshop Name – [Robo-TWiST] AI with TWiST : Crafting Intelligent Robots
+Workshop Name – [Robo-TWiST] AI with TWiST: Crafting Intelligent Robots
 Workshop Venue - Feb 16 - 18, 2024 (Exact time TBA), ELB 323
 Research Project - Mapless Robot Navigation
 Link: https://uta.engineering/ourcs/index.php
