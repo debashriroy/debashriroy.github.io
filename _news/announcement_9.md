@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Students from Northeastern University China vistied TWiST Lab
+title: Students from Northeastern University China visited TWiST Lab
 date: 2024-01-23 16:11:00-0400
 inline: false
 ---
