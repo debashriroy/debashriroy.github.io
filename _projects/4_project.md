@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Digital Twin
-description: Interacting Virtual and Real Worlds for Automative Wireless Beamforming
+description: Interacting Virtual and Real Worlds
 img: assets/img/Digital_twin.png
-importance: 4
+importance: 3
 category: work
 ---
 
