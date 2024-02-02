@@ -3,7 +3,7 @@ layout: page
 title: Networked Robotics
 description: Robot Connectivity and Navigation
 img: assets/img/Intel.png
-importance: 3
+importance: 2
 category: work
 ---
 
