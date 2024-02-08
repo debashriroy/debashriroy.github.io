@@ -3,7 +3,6 @@ layout: page
 permalink: /Mission/
 title: Mission Statement
 description: Welcome to Transformative Wireless Systems and Technology (TWiST) Lab at UT Arlington.
-
 ---
 
 <div class="row justify-content-sm-center">
