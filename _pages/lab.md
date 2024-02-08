@@ -13,7 +13,7 @@ children:
     - title: divider
     - title: News
       permalink: /news/
-    - title: divider
+    <!-- - title: divider -->
 
 
 ---
