@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /TWiST-Lab/
-title: The TWiSTed Team :sparkles: :sparkles:
+title: :sparkles: The TWiSTed Team :sparkles:
 description: Let us introduce ourselves!
 <!-- nav: true
 nav_order: 7 -->
