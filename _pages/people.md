@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /TWiST-Lab/
-title: TWiST Lab
-description: Let us introduce ourselves! 
+title: Team TWiST
+description: Let us introduce ourselves!
 <!-- nav: true
 nav_order: 7 -->
 ---
