@@ -9,7 +9,7 @@ children:
       permalink: /Mission/
     - title: divider
     - title: Members
-      permalink: /TWiST-Lab/
+      permalink: /Members/
     - title: divider
     - title: Gallery
       permalink: /Gallery/

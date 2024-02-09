@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /TWiST-Lab/
-title: :sparkles: The TWiSTed Team :sparkles:
+permalink: /Members/
+title: :Team TWiST
 description: Let us introduce ourselves!
 <!-- nav: true
 nav_order: 7 -->
