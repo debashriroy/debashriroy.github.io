@@ -2,7 +2,7 @@
 layout: page
 permalink: /Mission/
 title: Mission Statement
-description: We are on a mission of shaping the future of wireless technology.
+description: Welcome to Transformative Wireless Systems and Technology (TWiST) Lab at UT Arlington. We are on a mission of shaping the future of wireless technology.
 ---
 
 <div class="row justify-content-sm-center">
