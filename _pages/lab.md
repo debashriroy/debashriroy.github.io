@@ -10,6 +10,7 @@ children:
     - title: divider
     - title: Members
       permalink: /TWiST-Lab/
+    - title: divider
     - title: Gallery
       permalink: /Gallery/
     - title: divider
