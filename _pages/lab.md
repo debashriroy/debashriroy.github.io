@@ -5,15 +5,15 @@ nav: true
 nav_order: 1
 dropdown: true
 children:
-    - title: Mission
+    - title: mission
       permalink: /Mission/
     - title: divider
-    - title: Members
+    - title: members
       permalink: /Members/
     - title: divider
-    - title: Gallery
+    - title: gallery
       permalink: /Gallery/
     - title: divider
-    - title: News
+    - title: news
       permalink: /news/
 ---
