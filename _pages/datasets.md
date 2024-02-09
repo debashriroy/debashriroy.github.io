@@ -3,8 +3,6 @@ layout: page
 title: datasets
 permalink: /datasets/
 description: A growing collection of the datasets I have contributed to!
-<!-- nav: true
-nav_order: 2 -->
 display_categories: [work, fun]
 horizontal: false
 ---

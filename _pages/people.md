@@ -3,8 +3,6 @@ layout: page
 permalink: /Members/
 title: :Team TWiST
 description: Let us introduce ourselves!
-<!-- nav: true
-nav_order: 7 -->
 ---
 
 <div class="row justify-content-sm-center">

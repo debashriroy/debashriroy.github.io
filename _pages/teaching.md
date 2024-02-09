@@ -3,8 +3,8 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: University of Texas Arlington (Fall 2023 onwards) and University of Central Florida(Fall 2017 - Fall 2019)
-nav: true
-nav_order: 5
+<!-- nav: true
+nav_order: 6 -->
 ---
 
 

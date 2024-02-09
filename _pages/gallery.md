@@ -3,8 +3,6 @@ layout: page
 permalink: /Gallery/
 title: Gallery
 description: We believe in work hard, play hard. 
-<!-- nav: true
-nav_order: 7 -->
 ---
 
 <div class="row justify-content-sm-center">
