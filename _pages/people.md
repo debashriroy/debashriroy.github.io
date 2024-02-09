@@ -44,6 +44,15 @@ nav_order: 7 -->
       </div>
 </div>
 
+<div class="row justify-content-sm-center">
+<div class="col-sm-2 mt-3 mt-md-0">
+    {% include figure.html path="assets/img/Tithy.jpg" title="Gaurav" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-10 mt-3 mt-md-0">
+    <b> Tanusree Das Tithy </b> is currently pursuing her PhD in Computer Science and Engineering at the University of Texas at Arlington (UTA). She earned her Bachelor of Science and Engineering (B.Sc Engr.) degree in Computer Science and Engineering from Khulna University of Engineering & Technology (KUET), Bangladesh. Her research endeavors are focused on exploring the realms of Machine Learning, Deep Learning, and Artificial Intelligence, particularly their integration and applications within wireless communication technologies.
+      </div>
+</div>
+
 ---
 
 <div class="row justify-content-sm-center">
