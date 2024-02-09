@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Members/
-title: :Team TWiST
+title: Team TWiST
 description: Let us introduce ourselves!
 ---
 
@@ -10,7 +10,7 @@ description: Let us introduce ourselves!
     {% include figure.html path="assets/img/Sunday_pic.jpg" title="Sunday" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
-    <b> Sunday Amatare </b> is pursuing his PhD in Computer Science at The University of Texas at Arlington. Before enrolling for his PhD, he completed his BS and MS in Computer Science from the University of Ilorin (Nigeria) and the University of Ibadan (Nigeria) respectively. His research interest lies in the application of Machine Learning in Wireless Communication.
+    <b> Sunday Amatare </b> (Fall 2023- ) is pursuing his PhD in Computer Science at The University of Texas at Arlington. Before enrolling for his PhD, he completed his BS and MS in Computer Science from the University of Ilorin (Nigeria) and the University of Ibadan (Nigeria) respectively. His research interest lies in the application of Machine Learning in Wireless Communication.
       </div>
 </div>
 
@@ -19,7 +19,7 @@ description: Let us introduce ourselves!
     {% include figure.html path="assets/img/Gaurav.png" title="Gaurav" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
-    <b> Gaurav Singh </b> is pursuing his Doctoral degree in Computer Science at the University of Texas at Arlington (UTA). He has completed his Master of Science (MS) in Advanced Computer Science (Artificial Intelligence) from the University of Leeds, United Kingdom. His research interests lie in Machine Learning, Artificial Intelligence, and their applications in wireless communication.
+    <b> Gaurav Singh </b> (Fall 2023- ) is pursuing his Doctoral degree in Computer Science at the University of Texas at Arlington (UTA). He has completed his Master of Science (MS) in Advanced Computer Science (Artificial Intelligence) from the University of Leeds, United Kingdom. His research interests lie in Machine Learning, Artificial Intelligence, and their applications in wireless communication.
       </div>
 </div>
 
@@ -28,7 +28,7 @@ description: Let us introduce ourselves!
     {% include figure.html path="assets/img/Tithy.jpg" title="Gaurav" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
-    <b> Tanusree Das Tithy </b> is currently pursuing her PhD in Computer Science and Engineering at the University of Texas at Arlington (UTA). She earned her Bachelor of Science and Engineering (B.Sc Engr.) degree in Computer Science and Engineering from Khulna University of Engineering & Technology (KUET), Bangladesh. Her research endeavors are focused on exploring the realms of Machine Learning, Deep Learning, and Artificial Intelligence, particularly their integration and applications within wireless communication technologies.
+    <b> Tanusree Das Tithy </b> (Spring 2024- ) is currently pursuing her PhD in Computer Science and Engineering at the University of Texas at Arlington (UTA). She earned her Bachelor of Science and Engineering (B.Sc Engr.) degree in Computer Science and Engineering from Khulna University of Engineering & Technology (KUET), Bangladesh. Her research endeavors are focused on exploring the realms of Machine Learning, Deep Learning, and Artificial Intelligence, particularly their integration and applications within wireless communication technologies.
       </div>
 </div>
 
@@ -39,7 +39,7 @@ description: Let us introduce ourselves!
     {% include figure.html path="assets/img/Michelle_Samson.png" title="Michelle" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
-  <b>  Michelle Samson </b> is a fast-track graduate student chosen from a pool of 3000 peers, pursuing master of science in Computer Engineering at The University of Texas at Arlington. Driven by relentless ambition, she forges innovative software solutions to actively better our world. As a devoted research assistant, she channels my skills with precision and passion, shaping a future of impactful contributions. Expected graduation: Spring 2024.
+  <b>  Michelle Samson </b> (Fall 2023- ) is a fast-track graduate student chosen from a pool of 3000 peers, pursuing master of science in Computer Engineering at The University of Texas at Arlington. Driven by relentless ambition, she forges innovative software solutions to actively better our world. As a devoted research assistant, she channels my skills with precision and passion, shaping a future of impactful contributions. Expected graduation: Spring 2024.
 </div>
 </div>
 
