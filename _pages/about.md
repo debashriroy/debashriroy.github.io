@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: about PI
 permalink: /
 subtitle: <a href='#'>Assistant Professor, Department of Computer Science and Engineering, University of Texas Arlington</a>.
 
