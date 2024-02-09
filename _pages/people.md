@@ -61,8 +61,8 @@ description: Let us introduce ourselves!
 <div class="row justify-content-sm-center">
 <div class="col-sm-2 mt-3 mt-md-0">
     {% include figure.html path="assets/img/Duy.jpg" title="Duy" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-10 mt-3 mt-md-0">
+</div>
+<div class="col-sm-10 mt-3 mt-md-0">
 <b> Duy Quang Pham </b>(Undergraduate Student, Fall 2023- ) : Computer Science and Engineering, Expected graduation: Spring 2025.  Duy is an enthusiastic computer scientist who is interested in AI, Machine Learning, Software. He is able to work well both in a team environment as well as using his own initiative. He is currently looking for a summer internship so that He can use his knowledge to serve the community.
 </div>
 </div>
