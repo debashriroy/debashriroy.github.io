@@ -13,7 +13,7 @@ inline: false
 
 <a href="https://sites.google.com/view/robo-twist" parent = '_blank'> [Robo-TWiST] AI with TWiST by Crafting Intelligent Robots </a>
 
-Venue - Feb 16 - 19, 2024, ELB 323
+Venue - Feb 16 - 19, 2024, Engineering Research Lab building (ELB 323)
 
 Register at <a href="https://uta.engineering/ourcs/workshops.php" parent = '_blank'> OurCS@DFW</a>.
 
