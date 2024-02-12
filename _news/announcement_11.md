@@ -22,6 +22,6 @@ Date: February 10, 2024, 10:00 - 10:45 am and 2:45pm - 3:30 pm
 
 Venue: Nedderman Hall 112 at UTA
 
-Organizers:  Marika  Apostolova, Debashri Roy, Kanchan Thapa, Michelle Samson  (University of Texas at Arlington, CSE department).
+<!-- Organizers:  Marika  Apostolova, Debashri Roy, Kanchan Thapa, Michelle Samson  (University of Texas at Arlington, CSE department). -->
 
 Session Description: Puzzle solving will be a computational thinking activity that will expand students problem-solving skills. In addition to that, through building a puzzle solving strategy,  students will create an algorithm or set of instructions to help someone else solve puzzles.
