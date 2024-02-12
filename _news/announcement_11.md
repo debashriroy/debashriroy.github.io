@@ -18,7 +18,10 @@ inline: false
 
 Session Title: Building a Puzzle Solving Strategy
 
-Session Type and Location: Nedderman Hall 112
+Date: February 10, 2024, 10:00 - 10:45 am and 2:45pm - 3:30 pm
 
-Presenters:  Marika  Apostolova, University of Texas at Arlington; CSE department
+Venue: Nedderman Hall 112 at UTA
+
+Presenters:  Marika  Apostolova, Debashri Roy, Kanchan Thapa, Michelle Samson from University of Texas at Arlington, CSE department.
+
 Session Description: Puzzle solving will be a computational thinking activity that will expand students problem-solving skills. In addition to that, through building a puzzle solving strategy,  students will create an algorithm or set of instructions to help someone else solve puzzles.
