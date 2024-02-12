@@ -7,12 +7,12 @@ inline: false
 
 <div class="row justify-content-sm-center">
 <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.html path="assets/img/DD1.png" title="Workshop" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/DD4.png" title="Workshop" class="img-fluid rounded z-depth-1" %}
     {% include figure.html path="assets/img/DD2.png" title="Workshop" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="col-sm-8 mt-3 mt-md-0">
     {% include figure.html path="assets/img/DD3.png" title="Workshop" class="img-fluid rounded z-depth-1" %}
-    {% include figure.html path="assets/img/DD4.png" title="Workshop" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/DD1.png" title="Workshop" class="img-fluid rounded z-depth-1" %}
 </div>
 </div>
 
