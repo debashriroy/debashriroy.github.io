@@ -14,7 +14,7 @@ children:
     - title: gallery
       permalink: /Gallery/
     - title: divider
-    - title: Our@CS
+    - title: Robo-TWiST
       permalink: https://sites.google.com/view/robo-twist/home
     - title: divider
     - title: news
