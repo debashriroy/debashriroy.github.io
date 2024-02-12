@@ -87,4 +87,14 @@ He is especially fascinated by the convergence of robotics technology and mechan
 </div>
 </div>
 
+<div class="row justify-content-sm-center">
+<div class="col-sm-2 mt-4 mt-md-0">
+    {% include figure.html path="assets/img/Hasin.jpg" title="Hasin" class="img-fluid rounded z-depth-1" %}
+    </div>
+<div class="col-sm-10 mt-3 mt-md-0">
+<div class="col-sm-12 mt-3 mt-md-0">
+<b> Hasin Ahmed </b>(Undergraduate Student, Spring 2023- ): Computer Engineering, expected graduation: Fall 2027. Hasin's passion lies in semiconductors, electronics, circuit design, and analysis. He is dedicated to bridging theory and practice through hands-on projects, and aims to contribute to the evolving field of Computer Engineering, focusing on innovative solutions.
+</div>
+</div>
+
 <p>Contact Details: Say hi to us at Engineering Lab Building (ELB 323), email us at twistlab@uta.edu or twistlabroy@gmail.com</p>
