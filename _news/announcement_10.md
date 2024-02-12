@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TWiST lab hosting workshop at the OurCS event
-date: 2024-01-28 16:11:00-0400
+date: 2024-02-12 16:11:00-0400
 inline: false
 ---
 
