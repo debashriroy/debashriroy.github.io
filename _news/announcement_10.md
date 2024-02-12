@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TWiST lab hosting workshop at the OurCS event
-date: 2024-02-12 16:11:00-0400
+date: 2024-02-11 16:11:00-0400
 inline: false
 ---
 
@@ -16,7 +16,6 @@ inline: false
 Venue - Feb 16 - 19, 2024, ELB 323
 
 Register at <a href="https://uta.engineering/ourcs/workshops.php" parent = '_blank'> OurCS@DFW</a>.
-
 
 Research Project - Mapless Robot Navigation
 
