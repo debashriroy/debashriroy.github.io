@@ -1,25 +1,24 @@
 ---
 layout: post
-title: TWiST lab hosting workshop at the OurCS event
-date: 2024-02-12 16:11:00-0400
+title: TWiST lab co-hosting puzzle solving workshop at Digital Divas event
+date: 2024-02-10 16:11:00-0400
 inline: false
 ---
 
 <div class="row justify-content-sm-center">
 <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.html path="assets/img/AI_with_TWiST.png" title="Workshop" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/DD1.png" title="Workshop" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/DD2.png" title="Workshop" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.html path="assets/img/DD3.png" title="Workshop" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/DD4.png" title="Workshop" class="img-fluid rounded z-depth-1" %}
 </div>
 </div>
 
-<a href="https://sites.google.com/view/robo-twist" parent = '_blank'> [Robo-TWiST] AI with TWiST by Crafting Intelligent Robots </a>
+Session Title: Building a Puzzle Solving Strategy
 
-Venue - Feb 16 - 19, 2024, ELB 323
+Session Type and Location: Nedderman Hall 112
 
-Register at <a href="https://uta.engineering/ourcs/workshops.php" parent = '_blank'> OurCS@DFW</a>.
-
-
-Research Project - Mapless Robot Navigation
-
-Description - Embark on a thrilling odyssey into the fascinating world of artificial intelligence (AI) and robotics with a mind-boggling fact: Did you know that robots can learn from each other? In a mesmerizing phenomenon known as "robotic peer learning," machines share knowledge and skills, creating a dynamic and collaborative environment. Join us to uncover this captivating facet of AI as we explore the mysteries of robotic interactions. The adventure continues with a live demonstration of Mapless Robot Navigation, followed by an engaging Python coding game that offers a glimpse into the mind of a programmer. Conclude the experience with an interactive Q&A and be prepared for surprise swag gifts.
- 
-Coding skill - Basic Python programming and a ton of enthu!
+Presenters:  Marika  Apostolova, University of Texas at Arlington; CSE department
+Session Description: Puzzle solving will be a computational thinking activity that will expand students problem-solving skills. In addition to that, through building a puzzle solving strategy,  students will create an algorithm or set of instructions to help someone else solve puzzles.
