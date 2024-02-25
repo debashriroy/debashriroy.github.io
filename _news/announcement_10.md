@@ -4,6 +4,7 @@ title: TWiST lab hosted workshop at the OurCS event
 date: 2024-02-19 16:11:00-0400
 inline: false
 ---
+<b> Announcement: Our team won the <font color = "red"> "Best Team Presentation" </font> award in the SCRF 2024 event.<b/>
 
 <div class="row justify-content-sm-center">
 <div class="col-sm-8 mt-3 mt-md-0">
@@ -12,8 +13,6 @@ inline: false
 </div>
 
 <a href="https://sites.google.com/view/robo-twist" parent = '_blank'> [Robo-TWiST] AI with TWiST by Crafting Intelligent Robots </a>
-
-<b> Announcement: Our team won the <font color = "red"> "Best Team Presentation" </font> award in the SCRF 2024 event.<b/>
 
 Venue - Feb 16 - 19, 2024, Engineering Research Lab building (ELB 323)
 
