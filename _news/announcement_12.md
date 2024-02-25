@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulations to Sunday and Michelle for getting nominated to represent CSE department at the College of Engineering banquet
+title: Congratulations to Sunday and Michelle for getting nominated to represent CSE department at the College of Engineering banquet :sparkle:
 date: 2024-02-23 16:11:00-0400
 inline: false
 ---
