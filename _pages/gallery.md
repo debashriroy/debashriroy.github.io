@@ -15,18 +15,21 @@ description: We believe in work hard, play hard.
 </div>
 
 <div class="row justify-content-sm-center">
+<div class="col-sm-12">
+  Spring 2024 Team Lunch
+</div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Spring-lunch1.jpeg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Spring-lunch2.jpeg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm">
-      Spring 2024 Team Lunch
-    </div>
 </div>
 
 <div class="row justify-content-sm-center">
+<div class="col-sm-12">
+  Fall 2023 Team Lunch
+</div>
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Group1.png" title="Team Lunch" class="img-fluid rounded z-depth-1" %}
     </div>
