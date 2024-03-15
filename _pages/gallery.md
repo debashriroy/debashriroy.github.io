@@ -55,7 +55,7 @@ description: We believe in work hard, play hard.
 <div class="col-sm-12">
   Thanksgiving 2023
 </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Thanksgiving.jpg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
