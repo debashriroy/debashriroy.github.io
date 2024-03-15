@@ -21,6 +21,9 @@ description: We believe in work hard, play hard.
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Spring-lunch2.jpeg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm">
+      Spring 2024 Team Lunch
+    </div>
 </div>
 
 <div class="row justify-content-sm-center">
