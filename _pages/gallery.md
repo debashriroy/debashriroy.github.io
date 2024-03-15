@@ -28,6 +28,18 @@ description: We believe in work hard, play hard.
 
 <div class="row justify-content-sm-center">
 <div class="col-sm-12">
+  AI-with-TWiST Workshop at OurCS (<a href= "https://sites.google.com/view/robo-twist/gallery?authuser=0" parent = '_blank'>click for more pictures</a>).
+</div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/OurCS_2023_1.jpg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/OurCS_2023_2.jpg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+<div class="col-sm-12">
   Fall 2023 Team Lunch
 </div>
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -36,6 +48,15 @@ description: We believe in work hard, play hard.
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Group2.png" title="Team TWIST" class="img-fluid rounded z-depth-1" %}
  {% include figure.html path="assets/img/Group3.png" title="Team TWIST" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+<div class="col-sm-12">
+  Thanksgiving 2023
+</div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Thanksgiving.jpg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
