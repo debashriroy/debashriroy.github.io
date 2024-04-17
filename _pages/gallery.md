@@ -28,7 +28,7 @@ description: We believe in work hard, play hard.
         {% include figure.html path="assets/img/ID_2024/Inno_day3.jpeg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ID_2024/Inno_day4.jpeg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ID_2024/Inno_day7.jpeg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/ID_2024/Inno_day5.jpeg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
@@ -37,7 +37,7 @@ description: We believe in work hard, play hard.
         {% include figure.html path="assets/img/ID_2024/Inno_day6.jpeg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ID_2024/Inno_day7.jpeg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ID_2024/Inno_day4.jpeg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/ID_2024/Inno_day8.jpeg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
