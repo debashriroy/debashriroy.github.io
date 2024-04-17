@@ -16,6 +16,24 @@ description: We believe in work hard, play hard.
 
 <div class="row justify-content-sm-center">
 <div class="col-sm-12">
+  UTA CoE Innovation Day 2024
+</div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Inno_day1.jpeg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Inno_day2.jpeg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Inno_day3.jpeg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Inno_day4.jpeg" title="Spring Lunch" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+<div class="col-sm-12">
   Spring 2024 Team Lunch
 </div>
     <div class="col-sm-6 mt-3 mt-md-0">
